@@ -65,7 +65,8 @@ The backend is built with Node.js, Express, MongoDB, and TypeScript, providing a
 * **Structured with controllers, middleware, models, and routes for modular API endpoints.**
 * **Secured with JWT authentication and bcrypt for password hashing.**
 
-Author
+---
+Author:
 Developed by Ariadna Reynoso.
 
 ## Español
@@ -135,5 +136,5 @@ El backend está construido con Node.js, Express, MongoDB y TypeScript, proporci
 * **Protegido con autenticación JWT y hash de contraseñas con bcrypt.**
 
 ---
-Autora
+Autora: 
 Desarrollado por Ariadna Reynoso.
