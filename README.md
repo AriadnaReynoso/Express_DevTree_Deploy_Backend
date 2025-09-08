@@ -2,7 +2,7 @@
 
 ## English
 
-_Devtree is a web application designed to allow users to create and customize their own profile pages with a collection of links in a simple, attractive, and intuitive way. Built with a modern tech stack, Devtree combines a user-friendly frontend with a robust backend, enabling real-time profile editing, drag-and-drop link organization, and secure user data management. The project emphasizes clean design, scalability, and a seamless user experience, making it ideal for individuals and creators to showcase their online presence.
+_Devtree is a web application designed to allow users to create and customize their own profile pages with a collection of links in a simple, attractive, and intuitive way. Built with a modern tech stack, Devtree combines a user-friendly frontend with a robust backend, enabling real-time profile editing, drag-and-drop link organization, and secure user data management. The project emphasizes clean design, scalability, and a seamless user experience, making it ideal for individuals and creators to showcase their online presence._
 
 ### Features  📌
 
@@ -15,7 +15,7 @@ _Devtree is a web application designed to allow users to create and customize th
 
 ### Tech Stack ⚙️
 
-_Devtree leverages a modern and robust set of technologies to deliver a seamless and high-performance experience. Below is a detailed breakdown of the frameworks, libraries, and tools used, along with their purpose in the project.
+_Devtree leverages a modern and robust set of technologies to deliver a seamless and high-performance experience. Below is a detailed breakdown of the frameworks, libraries, and tools used, along with their purpose in the project._
 
 #### Frontend
 
@@ -70,7 +70,7 @@ Developed by Ariadna Reynoso.
 
 ## Español
 
-_Devtree es una aplicación web inspirada en Linktree, diseñada para permitir a los usuarios crear y personalizar sus propios perfiles con una colección de enlaces de manera sencilla, atractiva e intuitiva. Construida con un stack tecnológico moderno, Devtree combina un frontend amigable con un backend robusto, ofreciendo edición de perfiles en tiempo real, organización de enlaces mediante drag-and-drop y una gestión segura de los datos del usuario. El proyecto destaca por su diseño limpio, escalabilidad y una experiencia de usuario fluida, siendo ideal para individuos y creadores que deseen mostrar su presencia en línea.
+_Devtree es una aplicación web inspirada en Linktree, diseñada para permitir a los usuarios crear y personalizar sus propios perfiles con una colección de enlaces de manera sencilla, atractiva e intuitiva. Construida con un stack tecnológico moderno, Devtree combina un frontend amigable con un backend robusto, ofreciendo edición de perfiles en tiempo real, organización de enlaces mediante drag-and-drop y una gestión segura de los datos del usuario. El proyecto destaca por su diseño limpio, escalabilidad y una experiencia de usuario fluida, siendo ideal para individuos y creadores que deseen mostrar su presencia en línea._
 
 ### Características 🔧 
 
@@ -83,7 +83,7 @@ _Devtree es una aplicación web inspirada en Linktree, diseñada para permitir a
 
 ### Stack Tecnológico ⚙️
 
-_Devtree utiliza un conjunto de tecnologías modernas y robustas para ofrecer una experiencia fluida y de alto rendimiento. A continuación, se detalla cada framework, librería y herramienta utilizada, junto con su propósito en el proyecto.
+_Devtree utiliza un conjunto de tecnologías modernas y robustas para ofrecer una experiencia fluida y de alto rendimiento. A continuación, se detalla cada framework, librería y herramienta utilizada, junto con su propósito en el proyecto._
 
 #### Frontend
 
