@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist", //donde se compila el proyecto
+         //carpeta principal del codigo
+        "rootDir": "./src",
+        "lib": ["ESNext"], //lista de bibliotecas disponibles en tys
+        "target": "ESNext", //version para compilar el codigo de tys
+        "moduleResolution": "nodenext",
+        "module": "NodeNext", //como se compilan los modulos
+        "strict": false,
+        "sourceMap": true, //referencia al codigo original
+        "esModuleInterop": true, //para usar modulos de commonjs y ecma
+        "declaration": true, 
+
+    },
+
+    "include": ["src/**/*.ts"] //archivos que quiero incluir en la compilacion
+
+}
