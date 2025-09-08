@@ -44,7 +44,7 @@ router.patch('/user',
     
 router.post('/user/image', authenticate, uploadImage)
 
-router.get('/:handle', getUserByHandle)
+router.get('/admin/:handle', getUserByHandle)
 
 router.post('/search',     
     body('handle')
